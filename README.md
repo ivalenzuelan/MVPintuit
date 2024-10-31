@@ -1,1 +1,1 @@
-# MVPintuit
+# MVPintuit![DALL·E 2024-10-30 09 44 56 - A detailed Snakes   Ladders-style board game designed for financial literacy  The board features numbered squares (1 to 100) arranged in a grid, with ](https://github.com/user-attachments/assets/9b8f8b17-1548-4267-bed4-3c1cf20e002d)
